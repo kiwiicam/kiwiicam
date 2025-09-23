@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi I'm Campbell a final-year Computer Science student at AUT, passionate about software development, AI, and building practical, real-world projects. I enjoy exploring machine learning and full stack development, and I'm always keen to learn new technologies and improve my coding skills. Check out my repositories to view my work!<br><br>
 
 
